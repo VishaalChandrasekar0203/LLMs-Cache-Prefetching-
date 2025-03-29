@@ -1,7 +1,7 @@
 # LLMs-Cache-Prefetching
 
 
-##Results:
+## Results:
 ### Baseline Run: Cold Cache ###
 Processed prompt in 0.1095 seconds (Tokens: 10)
 
@@ -12,7 +12,7 @@ Processed prompt in 0.0000 seconds (Tokens: 10)
 Processed prompt in 0.0000 seconds (Tokens: 12)
 
 
-##Explanation of the Code and Framework Model & Device Setup:
+## Explanation of the Code and Framework Model & Device Setup:
 
 We install and import necessary libraries.
 
